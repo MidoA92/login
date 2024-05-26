@@ -20,3 +20,7 @@ body, html {
 .input{
     background-color: rgba(245, 245, 245, 0.773);
 }
+
+.faq{
+  text-decoration: none;
+}
